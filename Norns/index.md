@@ -5,7 +5,13 @@ nav_order: 1
 has_children: true
 ---
 
+Norns has three encoders and three keys. They're not labelled in any way and they do different things depending on where you are in the system.
+
+For example, when you first turn on Norns, you are looking at a kind of "main menu. The knobs and buttons will navigate you around this menu. However, when you're inside an app, the buttons and knobs will do other things such as playing sounds or sequencing notes to be sent to a synthesizer.
+
 # "System"
+
+Knob 1 and Button 1 generally control the highest-level functionality.
 
 ## Button 1
 
@@ -18,13 +24,16 @@ has_children: true
 
 ## Button 2
 
-- Load overlay
+- Load "system" overlay
+- Go back/Exit/Cancel
 
 ## Knob 2
 
+- Scroll through menu
+
 ## Button 3
 
-- Go/Enter/Confirm
+- Go forward/Enter/Confirm
 
 ## Knob 3
 
