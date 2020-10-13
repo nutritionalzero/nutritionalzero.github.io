@@ -16,6 +16,14 @@ has_children: true
 
 Wow this is really cool
 
+## Pools
+
+A nice shimmer reverb.
+
 ## Reels
 
 This is a "4-track tape studio."
+
+## Sam
+
+"Sample cutter/recorder." Looks like it could allow for precise sample cutting.
